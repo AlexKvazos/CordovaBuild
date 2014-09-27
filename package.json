@@ -14,7 +14,7 @@
     "Grunt"
   ],
   "author": "AlexKvazos",
-  "license": "MIT",
+  "license": "Apache License 2.0",
   "bugs": {
     "url": "https://github.com/AlexKvazos/CordovaBuild/issues"
   },
