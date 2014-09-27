@@ -1,7 +1,7 @@
 CordovaBuild
 ------
 
-[![Build Status](https://travis-ci.org/AlexKvazos/CordovaBuild.svg)](https://travis-ci.org/AlexKvazos/CordovaBuild)
+[![Build Status](https://travis-ci.org/AlexKvazos/CordovaBuild.svg)](https://travis-ci.org/AlexKvazos/CordovaBuild) [![Cordova Version](http://img.shields.io/badge/Cordova-3.6.3-blue.svg)](http://cordova.apache.org/docs/en/3.6.0/)
 
 Building Cordova applications is fun, however, there are missing features that could help improve the development process. With this boilerplate, my goal is to provide a better way of making applications with automated tasks using Grunt. I am open to your suggestions.
 
