@@ -1,0 +1,35 @@
+{
+  "name": "CordovaBuild",
+  "version": "1.0.0",
+  "description": "An improved distribution of Apache Cordova with Grunt tasks and tools to help you build your app",
+  "main": "www/index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexKvazos/CordovaBuild"
+  },
+  "keywords": [
+    "Apache",
+    "Cordova",
+    "Build",
+    "Grunt"
+  ],
+  "author": "AlexKvazos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexKvazos/CordovaBuild/issues"
+  },
+  "homepage": "https://github.com/AlexKvazos/CordovaBuild",
+  "dependencies": {
+    "fs-extra": "^0.12.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.6.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-handlebars": "^0.8.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-exec": "^0.4.6",
+    "rimraf": "^2.2.8"
+  }
+}
