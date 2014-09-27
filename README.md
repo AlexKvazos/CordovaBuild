@@ -17,12 +17,16 @@ Building Cordova applications is fun, however, there are missing features that c
  - Testing with TravisCI
  - *And more features to come...*
 
+-----
+
 **Before you start**
 
 *Be sure that you have a stable version of NodeJS installed as well as Grunt-CLI.*
 
     brew install node # Required by Cordova and CordovaBuild
     npm install -g grunt-cli # Required by CordovaBuild
+
+-----
 
 **Preparing your workspace**
 
@@ -32,17 +36,23 @@ Building Cordova applications is fun, however, there are missing features that c
     cd CordovaBuild
     npm install
 
+-----
+
 **Building your application**
 
 *All your application should live in the app/ folder. You will no longer work on the www/ folder.*
 
     grunt build
 
+-----
+
 **Compiling for iOS**
 
 *This will prepare your iOS application by making an xCode Project and moving the icons/splashscreens into the xCode Resources folder. You should build your application before running this task.*
 
     grunt ios
+
+-----
 
 **TODO:**
 
