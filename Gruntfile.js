@@ -133,8 +133,8 @@ module.exports = function(grunt)
    * iOS Resources Task
    */
   grunt.registerTask('iosResources', 'Copy iOS resources to correct directory', function() {
-    fs.copySync('res/splash/ios', '../platforms/ios/' + pkg.name + '/Resources/splash');
-    fs.copySync('res/icons/ios', '../platforms/ios/' + pkg.name + '/Resources/icons');
+    fs.copySync('res/splash/ios', 'platforms/ios/' + pkg.name + '/Resources/splash');
+    fs.copySync('res/icons/ios', 'platforms/ios/' + pkg.name + '/Resources/icons');
   });
 
   // Load all tasks
