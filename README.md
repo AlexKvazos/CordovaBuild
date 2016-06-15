@@ -1,3 +1,7 @@
+# DEPRECATED IN FAVOR OF [React-Cordova](https://github.com/AlexKvazosMx/React-Cordova)
+------
+
+
 CordovaBuild
 ------
 
